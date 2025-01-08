@@ -15,7 +15,7 @@ Follow the steps below to set up and run the project locally.
 
 1. Clone the repository:
    ```bash
-   git clone aifaq_user_dashboard
+   git clone https://github.com/Jayaram007/aifaq_user_dashboard.git
    cd aifaq_user_dashboard
    ```
 
